@@ -1,0 +1,23 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "api",
+        "node"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "express": "^4.17.1",
+        "figlet": "^1.5.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
